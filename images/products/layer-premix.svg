@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Layer Premix product illustration">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f0df"/><stop offset="1" stop-color="#ead8a7"/></linearGradient></defs>
+<rect width="640" height="360" fill="url(#g)"/>
+<circle cx="500" cy="114" r="105" fill="#f8f0df" opacity=".55"/>
+<circle cx="90" cy="300" r="115" fill="#ead8a7" opacity=".28"/>
+<path d="M0 286 Q150 250 285 290 T640 270 V360 H0Z" fill="#73592b" opacity=".07"/>
+<g transform="translate(270 95) scale(1.25)"><ellipse cx="30" cy="30" rx="18" ry="24" fill="#ead8a7"/><path d="M18 34 Q30 20 42 34" stroke="#73592b" stroke-width="4" fill="none"/></g>
+<g transform="translate(68 68)"><rect width="152" height="224" rx="12" fill="#fff" opacity=".78"/><path d="M18 32 L28 12 H124 L134 32 V202 Q76 218 18 202Z" fill="#f8f0df" stroke="#73592b" stroke-opacity=".5" stroke-width="2"/><path d="M28 32 H124" stroke="#73592b" stroke-opacity=".5" stroke-width="3"/><path d="M46 70 H106 M46 82 H106" stroke="#73592b" stroke-opacity=".35" stroke-width="4" stroke-linecap="round"/><circle cx="76" cy="127" r="31" fill="#ead8a7"/><g transform="translate(46 97) scale(.95)"><ellipse cx="30" cy="30" rx="18" ry="24" fill="#ead8a7"/><path d="M18 34 Q30 20 42 34" stroke="#73592b" stroke-width="4" fill="none"/></g><path d="M44 177 H108" stroke="#73592b" stroke-opacity=".5" stroke-width="4" stroke-linecap="round"/></g>
+<text x="455" y="310" text-anchor="middle" fill="#73592b" opacity=".72" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3">CHOICE NUTRITION</text>
+<text x="455" y="332" text-anchor="middle" fill="#73592b" opacity=".55" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">PRODUCT RANGE · 03</text>
+</svg>
